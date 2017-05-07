@@ -1,0 +1,76 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;lbccsu&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../lbmodel" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../lantern-devel" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../start" />
+      <root url="file://$PROJECT_DIR$/../zb" />
+      <root url="file://$PROJECT_DIR$/../check" />
+      <root url="file://$PROJECT_DIR$/../gomail" />
+      <root url="file://$PROJECT_DIR$/../Login" />
+      <root url="file://$PROJECT_DIR$/../hiccsu" />
+      <root url="file://$PROJECT_DIR$/../go-fetcher" />
+      <root url="file://$PROJECT_DIR$/../lbadmin" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../lbweb" />
+      <root url="file://$PROJECT_DIR$/../weixin" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../sport" />
+      <root url="file://$PROJECT_DIR$/../blog-master" />
+      <root url="file://$PROJECT_DIR$/../projectFilesBackup" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../code" />
+      <root url="file://$PROJECT_DIR$/../hiweapp" />
+      <root url="file://$PROJECT_DIR$/../cms" />
+      <root url="file://$PROJECT_DIR$/../hiapp" />
+      <root url="file://$PROJECT_DIR$/../gosseract" />
+      <root url="file://$PROJECT_DIR$/../capture_easy" />
+      <root url="file://$PROJECT_DIR$/../qiniupkg.com" />
+      <root url="file://$PROJECT_DIR$/../hiadmin" />
+      <root url="file://$PROJECT_DIR$/../Alogin" />
+      <root url="file://$PROJECT_DIR$/../Blog" />
+      <root url="file://$PROJECT_DIR$/../himodel" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../lbmodel" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../lantern-devel" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../start" />
+      <root url="file://$PROJECT_DIR$/../zb" />
+      <root url="file://$PROJECT_DIR$/../check" />
+      <root url="file://$PROJECT_DIR$/../gomail" />
+      <root url="file://$PROJECT_DIR$/../Login" />
+      <root url="file://$PROJECT_DIR$/../hiccsu" />
+      <root url="file://$PROJECT_DIR$/../go-fetcher" />
+      <root url="file://$PROJECT_DIR$/../lbadmin" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../lbweb" />
+      <root url="file://$PROJECT_DIR$/../weixin" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../sport" />
+      <root url="file://$PROJECT_DIR$/../blog-master" />
+      <root url="file://$PROJECT_DIR$/../projectFilesBackup" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../code" />
+      <root url="file://$PROJECT_DIR$/../hiweapp" />
+      <root url="file://$PROJECT_DIR$/../cms" />
+      <root url="file://$PROJECT_DIR$/../hiapp" />
+      <root url="file://$PROJECT_DIR$/../gosseract" />
+      <root url="file://$PROJECT_DIR$/../capture_easy" />
+      <root url="file://$PROJECT_DIR$/../qiniupkg.com" />
+      <root url="file://$PROJECT_DIR$/../hiadmin" />
+      <root url="file://$PROJECT_DIR$/../Alogin" />
+      <root url="file://$PROJECT_DIR$/../Blog" />
+      <root url="file://$PROJECT_DIR$/../himodel" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
